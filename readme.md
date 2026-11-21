@@ -17,6 +17,8 @@ The main purpose of this board is to provide easy power connections, servo conne
 
 --->PCB schematic
 
+![ardunio_shield Layout](images/Schematic_Arduino-shield1_2026-11-21.png)
+
 --->3D PCB View
 
 ![ardunio_shield Layout](images/shield3.png)
