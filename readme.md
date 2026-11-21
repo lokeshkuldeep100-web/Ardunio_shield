@@ -15,7 +15,7 @@ The main purpose of this board is to provide easy power connections, servo conne
 - Organized PCB layout
 - Easy component connections
 
---->PCB Preview
+--->PCB schematic
 
 --->3D PCB View
 
@@ -24,7 +24,7 @@ The main purpose of this board is to provide easy power connections, servo conne
 
 --->PCB Layout
 
-
+![ardunio_shield Layout](images/shield1.png)
 
 --->Schematic
 
