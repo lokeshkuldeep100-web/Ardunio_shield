@@ -77,9 +77,3 @@ The source folder contains the original EasyEDA project file, which can be impor
 https://cdn.hackclub.com/01a1fcd9-e60a-7501-a478-a6cb9d67ea8b/ardu.mp4
 
 https://cdn.hackclub.com/01a1fcd9-e209-7cf5-a707-9c71e9b17a6a/ardui.mp4
-
---->AI Usage
-
-I designed this project myself. I used AI only a little to understand and solve some errors during the design process.
-
-The main design work was done by me
