@@ -50,6 +50,17 @@ The project was designed using EasyEDA.
 
 The schematic and PCB design are part of this project.
 
+
+--->Manufacturing
+
+The Gerber files inside the manufacturing folder can be uploaded to a PCB fabrication service for manufacturing.
+Before ordering the PCB, verify the Gerber files, board dimensions, component footprints and BOM.
+
+
+--->Source
+The source folder contains the original EasyEDA project file, which can be imported into EasyEDA for editing.
+
+
 --->How to Open the Project
 
 1. Open EasyEDA.
@@ -63,7 +74,9 @@ The schematic and PCB design are part of this project.
 
 --->PCB Video
 
-A video of the PCB design process is included in this project.
+https://cdn.hackclub.com/01a1fcd9-e60a-7501-a478-a6cb9d67ea8b/ardu.mp4
+
+https://cdn.hackclub.com/01a1fcd9-e209-7cf5-a707-9c71e9b17a6a/ardui.mp4
 
 --->AI Usage
 
